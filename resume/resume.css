@@ -1,0 +1,54 @@
+.bio-image {
+	height: 200px;
+	position: relative;
+	border-radius: 200px;
+}
+
+.small-line-height {
+	line-height:0;
+}
+
+.big-line-height {
+	line-height: 200%
+}
+
+#nav {
+	background-color: #e6cac6;
+	padding: 15px;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+.section {
+   border-top: 500px;
+}
+
+#name {
+   text-align: center;
+   background-color: #ff0000;
+}
+
+h1 {
+	color: #ffffff;
+	font-size: 500%;
+} 
+
+h2 {
+	text-decoration: underline;
+}
+
+.center {
+	text-align: center;
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
