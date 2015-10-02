@@ -1,0 +1,48 @@
+.bio-image {
+	        height: 200px;
+	        position: relative;
+	        border-radius: 200px;
+	        margin-left: 80px
+}
+
+.small-line-height {
+	                line-height:0;
+}
+
+.big-line-height {
+	              line-height: 200%
+}
+
+#nav {
+	  float: left;
+	  background-color: #e6cac6;
+	  width: 300px;
+	  padding: 10px;
+}
+
+.underline {
+			text-decoration: underline;
+}
+
+.section {
+		  float: left;
+		 border-top: 500px;
+}
+
+#name {
+	   text-align: center;
+	   background-color: #ff0000;
+}
+
+h1 {
+	color: #ffffff;
+	font-size: 500%;
+} 
+
+h2 {
+	text-decoration: underline;
+}
+
+.center {
+		text-align: center;
+}
