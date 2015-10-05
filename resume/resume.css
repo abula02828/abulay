@@ -78,19 +78,23 @@ body {
 
 p {
 	color: #ffffff;
+	font-weight: bold;
 }
 
 td {
 	color: #ffffff;
+	font-weight: bold;
 }
 
 tr {
 	color: #ffffff;
+	font-weight: bold;
 }
 
 a {
    color: #ffffff;
    text-decoration: underline;
+   font-weight: bold;
 
 }
 
