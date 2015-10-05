@@ -40,11 +40,13 @@
 h1 {
 	color: #ffffff;
 	font-size: 500%;
+	font-weight: bold;
 } 
 
 h2 {
 	text-decoration: underline;
 	color: #ffffff;
+	font-weight: bold;
 }
 
 h4 {
